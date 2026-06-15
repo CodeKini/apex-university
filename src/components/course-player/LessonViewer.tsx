@@ -1,6 +1,6 @@
 'use client'
 
-import DOMPurify from 'isomorphic-dompurify'
+import DOMPurify from 'dompurify'
 import { ExternalLink, FileText, Video, Globe, Calendar, Link2 } from 'lucide-react'
 
 const ALLOWED_TAGS = [
