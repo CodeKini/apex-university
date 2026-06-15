@@ -1,6 +1,6 @@
-import Link from 'next/link'
+'use client'
 
-export const metadata = { title: 'Offline — Apex University' }
+import Link from 'next/link'
 
 export default function OfflinePage() {
   return (
